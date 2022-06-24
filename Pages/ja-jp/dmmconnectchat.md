@@ -1,6 +1,6 @@
 ﻿# DMM Connect Chat
 
-![キービジュアル](../Assets/dmmconnectchat_keyvisual.jpg)
+![キービジュアル](../../Assets/dmmconnectchat_keyvisual.jpg)
 
 - 概要：アバターを使って3DCG空間で他人と交流したりイベントに参加するアプリ
 - 期間：2020/8 - 現在
