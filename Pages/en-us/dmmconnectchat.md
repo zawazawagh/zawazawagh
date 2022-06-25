@@ -4,7 +4,7 @@
 
 - Summary: An application that uses avatars to interact with others in a 3DCG space and join events
 - Period: 2020/8 - Present
-- Size: 3-4 unity engineers, 1 server-side engineer, 1 3D modeler, 1 UI/UX designer
+- Team: 3-4 unity engineers, 1 server-side engineer, 1 3D modeler, 1 UI/UX designer
 - Responsibilities: Client side (Unity, C#, ShaderLab)
 - Devices: Windows desktop, PCVR
 
