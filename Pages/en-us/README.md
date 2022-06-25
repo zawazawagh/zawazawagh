@@ -24,15 +24,15 @@
 ## 
 
 ## Experience & Education
-|   |   |
-|---|---|
+|  |  |  |
+|-|-|-|
 | 2020-present | DMM.com LLC, VRlab | Propose and implement mock-ups for casual VR games (3 in 3 months.) <br>Develop a VR hand-tracking system for user studies of academic papers.<br>[Develop a metaverse application](./dmmconnectchat.md) |
 | 2018-2020 | Graduate School of Interdisciplinary Information Studies, The University of Tokyo | [Master thesis：Spatial presentation system to support a safe "VRwalking"](./arukivr.md) |
 | 2014-2018 | Department of Systems Innovation, Faculty of Engineering, The University of Tokyo | Bachelor thesis：Design and evaluation of LNG fuel supply infrastructure based on network model for shipping company |
 
 ## Freelance
-|   |   |
-|---|---|
+|  |  |  |
+|-|-|-|
 | 2022-present | HarvestX Inc. | Development of a simulator for a pollination robot using Unity |
 | 2019    | Information-technology Promotion Agency, Japan(IPA) | [Mitou IT 2019: Development of VRwalking](./arukivr.md) |
 | 2018-present | Synesthesias, Inc. | Assistance in developing XR content within Mobility<br>Assistance in making unity libraries<br>Many others |
