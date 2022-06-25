@@ -2,7 +2,7 @@
 
 ![KeyVisual](../../Assets/dmmconnectchat_keyvisual.jpg)
 
-- Summary: An application that uses avatars to interact with others in a 3DCG space and join events
+- Summary: An application that uses avatars to interact with others in a 3DCG space and join events. Released on Steam.
 - Period: 2020/8 - Present
 - Team: 3-4 unity engineers, 1 server-side engineer, 1 3D modeler, 1 UI/UX designer
 - Responsibilities: Client side (Unity, C#, ShaderLab)
