@@ -1,6 +1,6 @@
 # プロフィール
 
-:construction:[EN]()
+### [**English page**](./Pages/en-us/README.md)
 
 ## 基本情報
 
