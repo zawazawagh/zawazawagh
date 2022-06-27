@@ -57,3 +57,23 @@
 - Collaborate with the design team to minimize rework and assist in creating an application's comprehensive layout.
 - Assist in organizing in-app events and speaking at events to build and grow a user community.
 - Serve as scrum master for a team
+
+### Gif's
+**Grabbing**  
+![](../../Assets/grab.gif)
+
+**Spawning Item**  
+![](../../Assets/item.gif)
+
+**Camera and it's features**  
+![](../../Assets/camera1.gif)  
+![](../../Assets/camera2.gif)
+
+**Album and Sharing**  
+![](../../Assets/album.gif)
+
+**Commenting**  
+![](../../Assets/comment.gif)
+
+**Fundamental menu behaviour**  
+![](../../Assets/menu.gif)
